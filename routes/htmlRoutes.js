@@ -1,0 +1,1 @@
+// GET routes to html pages
